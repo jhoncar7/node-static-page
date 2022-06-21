@@ -1,0 +1,4 @@
+npm init -y
+npm i nodemon
+npm i handlebars -> https://github.com/pillarjs/hbs -> npm install hbs
+npm i dotenv
